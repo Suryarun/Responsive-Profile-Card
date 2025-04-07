@@ -1,10 +1,10 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    display: flex; /* Use flexbox for centering */
-    justify-content: center; /* Center horizontally */
-    align-items: center; /* Center vertically */
-    height: 100vh; /* Full viewport height */
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
+    height: 100vh; 
     background-color: #CAE7DF;
   }
   
@@ -15,7 +15,7 @@ body {
     text-align: center;
     padding: 20px;
     max-width: 350px;
-    width: 90%; /* Responsive width for smaller screens */
+    width: 90%; 
     transition: transform 0.3s ease, box-shadow 0.3s ease;
   }
   
